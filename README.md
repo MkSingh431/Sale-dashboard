@@ -23,7 +23,7 @@ This project is used by the following companies:
 
 ## Screenshots
 
-![Dashboard Screenshot](C:\Users\mks46\OneDrive\Desktop\world college 2023\Excel practices\Project\Sale Dashboard)
+![Dashboard Screenshot](https://github.com/MkSingh431/Sale-dashboard/blob/main/Screenshot%202025-06-17%20093610.png)
 
 
 ## 🔗 Links
